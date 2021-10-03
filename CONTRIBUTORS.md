@@ -250,19 +250,13 @@
 - GitHub: [mauryahimanshu] (https://github.com/mauryahimanshu)
 
 
-#### Name: William Kourafas
-- Place: Massachusetts, United States
-- Bio: Writing in C++, developing games in UE4
-- GitHub: [AlternateWalls](https://github.com/AlternateWalls)
-
-
 #### Name: Mayank Bhatt
 - Place: Pantnagar, uttarakhand, India
 - Bio: Mca student at College of technology, Pantnagar
 - GitHub: [mayankbhatt07141] (https://github.com/mayankbhatt07141)
 
 
-
-
-
-
+#### Name:Rashid Ansari
+- Place: Kalaiya, Bara, Nepal
+- Bio: Bachelor in Computer Science and Engineering
+- GitHub: [Rashid Ansari] (https://github.com/RAshid602)
